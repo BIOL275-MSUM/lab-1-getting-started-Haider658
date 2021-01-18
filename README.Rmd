@@ -1,0 +1,14 @@
+---
+title: 'Lab 1: Getting Started'
+output:
+  html_document:
+    df_print: paged
+---
+ 
+## Hello world!
+ 
+```{r}
+sessioninfo::session_info(c("tidyverse"))
+```
+$ git config --global user.email hadlional123@gmail.com
+$ git config --global user.name "Haider658"
